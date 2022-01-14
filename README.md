@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabio-cabral
-- 👀 I specialized in Kanban and Scrum and I am always looking for learning and improvement.
+- 👀 I've been working with Kanban and Scrum and I am always looking for learning and improvement.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiocabral/
 
