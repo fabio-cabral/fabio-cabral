@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabio-cabral
 - 👀 I've been working with Kanban and Scrum and I am always looking for learning and improvement.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning UiPath.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiocabral/
 
 <!---
